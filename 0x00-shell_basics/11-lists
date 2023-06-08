@@ -1,2 +1,2 @@
 #!/bin/bash
-:args -h -l
+ls :args -h -l
